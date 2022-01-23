@@ -1,0 +1,7 @@
+TidyUp
+In __REG_2
+List @__REG_2 __REG_3
+ListInit __REG_3
+ListSum __REG_3 __REG_4
+Out __REG_4
+Stop
